@@ -1,3 +1,3 @@
-function addN(a,b){
-return a+b;
+function minusN(a,b){
+return a-b;
 }
